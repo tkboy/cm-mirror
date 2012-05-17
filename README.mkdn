@@ -30,6 +30,10 @@ It's possible to store the mirror on a LAN server and to access it over NFS, SSH
 
 Go to CyanogenMod for more information
 ======================================
-http://www.cyanogenmod.com/
-http://github.com/CyanogenMod/
+Main Page: http://www.cyanogenmod.com/
+Repositories location: http://github.com/CyanogenMod/
+
+Contact me
+==========
+Email: tkboy@126.com
 
