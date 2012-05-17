@@ -7,7 +7,8 @@
   <remote  name="github"
            fetch="git://github.com/" />
 
-  <default remote="github"
+  <default revision="master"
+           remote="github"
            sync-j="4" />
 
   <project path="build" name="CyanogenMod/android_build">
