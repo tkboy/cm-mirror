@@ -1,5 +1,5 @@
-Using a local mirror
-====================
+A local mirror for CM
+=====================
 
 When using many clients, especially in situations where bandwidth is scarce, it is better to create a local mirror of the entire server content, and to sync clients from that mirror (which requires no network access).
 
